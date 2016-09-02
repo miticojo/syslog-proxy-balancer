@@ -1,0 +1,16 @@
+{
+  "name": "syslog-proxy-balancer",
+  "version": "1.0.0",
+  "description": "A symple and useful syslog proxy balancer",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "syslog",
+    "proxy",
+    "balancer"
+  ],
+  "author": "Giorgio Crivellari",
+  "license": "GPL-2.0"
+}
